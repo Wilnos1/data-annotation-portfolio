@@ -1,0 +1,16 @@
+
+Traffic Image Annotation Report
+Tool: CVAT
+Annotation Type: Bounding Boxes
+
+Project: Traffic Image Annotation
+Total Annotations: 31
+Object Classes: Car, Bus, Person
+Dataset Format: COCO 1.0
+Image Source: Pexels
+
+Project Description:
+This project involved annotating a traffic image using CVAT.
+I manually created 31 bounding boxes to identify cars,
+buses, and people in the image.
+The annotations were exported in COCO 1.0 format.
